@@ -1,8 +1,0 @@
-# app-ads.txt for Water Sort Puzzle – Relaxing Brain Game
-# Developer: Tactic Minds Studio
-#
-# INSTRUCTIONS:
-# Replace the publisher ID (pub-0000000000000000) with your actual Google AdMob Publisher ID.
-# You can find your publisher ID in your AdMob account under Settings > Account Information.
-
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
