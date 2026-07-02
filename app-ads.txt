@@ -1,5 +1,2 @@
-# app-ads.txt for Water Color Sort Puzzle
-# Developer: Tactic Minds Studio
-#
-#google.com, pub-2937591712305404, DIRECT, f08c47fec0942fa0
+google.com, pub-2937591712305404, DIRECT, f08c47fec0942fa0
 
